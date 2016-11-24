@@ -3,4 +3,4 @@
 #lime
 #salt
 #instructions
-#squeeze lemon
+#squeeze lime
